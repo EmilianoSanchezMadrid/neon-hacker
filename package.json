@@ -1,0 +1,26 @@
+{
+    "name": "neon-hacker",
+    "displayName": "Neon Hacker",
+    "description": "Color theme basado en colores verdes neon, inspirado en la temática de los 'hackers' de las peláculas de acción",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Emiliano Sánchez Madrid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Emiliano Sánchez Madrid-color-theme.json"
+            }
+        ]
+    },
+    "author": {
+        "name": "Emiliano Sanchez Madrid",
+        "email": "emilianosm200.cipng@mail.com"
+    },
+    "publisher": "Emiliano Sanchez"
+}
