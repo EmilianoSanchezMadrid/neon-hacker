@@ -1,13 +1,17 @@
 # README
-## This is the README for your extension "neon"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+##
+Bienvenidos, gracias por descargar mi color theme, esta es mi primer color theme que realizo, esta inspirado en la tematica de los hackers de las peliculas de accion, espero que sea de tu agrado y lo disfrutes, como recomendacion no lo uses mucho tiempo, ya que la gama de colores puede lastimar un poco a la vista
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+                       __
+                     .'  '.
+                 _.-'/  |  \
+    ,        _.-"  ,|  /  0 `-.
+    |\    .-"       `--""-.__.'=====================-,
+    \ '-'`        .___.--._)=========================|
+     \            .'      |                          |
+      |     /,_.-'        |         GRACIAS          |
+    _/   _.'(             |           POR            |
+   /  ,-' \  \            |       DESCARGARME        |
+   \  \    `-'            |                          |
+    `-'                   '--------------------------'
+##
